@@ -1,0 +1,8 @@
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\bin\Debug\XMLAktarma.exe.config
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\bin\Debug\XMLAktarma.exe
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\bin\Debug\XMLAktarma.pdb
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\obj\Debug\XMLAktarma.csproj.AssemblyReference.cache
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\obj\Debug\XMLAktarma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\obj\Debug\XMLAktarma.csproj.CoreCompileInputs.cache
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\obj\Debug\XMLAktarma.exe
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\XMLAktarma\obj\Debug\XMLAktarma.pdb
