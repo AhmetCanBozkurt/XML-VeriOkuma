@@ -61,3 +61,22 @@ class Program
         Console.ReadLine();
     }
 }
+
+
+<Polices>
+    <Police>
+        <SigortaEttirenler>
+            <SigortaEttiren>
+                <MusteriKodu>12345</MusteriKodu>
+                <AdSoyadUnvan>John Doe</AdSoyadUnvan>
+                <Uyruk>Türk</Uyruk>
+            </SigortaEttiren>
+            <SigortaEttiren>
+                <MusteriKodu>67890</MusteriKodu>
+                <AdSoyadUnvan>Jane Smith</AdSoyadUnvan>
+                <Uyruk>Türk</Uyruk>
+            </SigortaEttiren>
+        </SigortaEttirenler>
+    </Police>
+</Polices>
+
